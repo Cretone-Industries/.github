@@ -4,4 +4,4 @@ It is a company which makes advanced technology with business customers as targe
 
 ## Current Project:
 
-**EDWIN**: An A.I System which predicts sales of a particular product. 
+**R.I.V.A**: An General Purpose AI system. 
